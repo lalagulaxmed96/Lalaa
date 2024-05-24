@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Eflyer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\views\\electronic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\views\\electronic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\views\\electronic\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\views\\electronic\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\controllers\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\controllers\\electroniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.business\\exceptions\\entityfilenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|solutionrelative:eflyer.business\\exceptions\\entityfilenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.business\\services\\concretes\\electronicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|solutionrelative:eflyer.business\\services\\concretes\\electronicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.business\\services\\abstracts\\ielectronicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|solutionrelative:eflyer.business\\services\\abstracts\\ielectronicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|solutionrelative:eflyer.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654AAEA-0589-4450-8676-3A88BB01C5D2}|Eflyer.Core\\Eflyer.Core.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5654AAEA-0589-4450-8676-3A88BB01C5D2}|Eflyer.Core\\Eflyer.Core.csproj|solutionrelative:eflyer.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654AAEA-0589-4450-8676-3A88BB01C5D2}|Eflyer.Core\\Eflyer.Core.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.core\\models\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5654AAEA-0589-4450-8676-3A88BB01C5D2}|Eflyer.Core\\Eflyer.Core.csproj|solutionrelative:eflyer.core\\models\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654AAEA-0589-4450-8676-3A88BB01C5D2}|Eflyer.Core\\Eflyer.Core.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.core\\repositoryabstracts\\ielectronicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5654AAEA-0589-4450-8676-3A88BB01C5D2}|Eflyer.Core\\Eflyer.Core.csproj|solutionrelative:eflyer.core\\repositoryabstracts\\ielectronicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654AAEA-0589-4450-8676-3A88BB01C5D2}|Eflyer.Core\\Eflyer.Core.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5654AAEA-0589-4450-8676-3A88BB01C5D2}|Eflyer.Core\\Eflyer.Core.csproj|solutionrelative:eflyer.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E6D29A-9E7E-445A-87B4-49F939B9BC9E}|Eflyer.Data\\Eflyer.Data.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E6D29A-9E7E-445A-87B4-49F939B9BC9E}|Eflyer.Data\\Eflyer.Data.csproj|solutionrelative:eflyer.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E6D29A-9E7E-445A-87B4-49F939B9BC9E}|Eflyer.Data\\Eflyer.Data.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.data\\repositoryconcretes\\electronicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E6D29A-9E7E-445A-87B4-49F939B9BC9E}|Eflyer.Data\\Eflyer.Data.csproj|solutionrelative:eflyer.data\\repositoryconcretes\\electronicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E6D29A-9E7E-445A-87B4-49F939B9BC9E}|Eflyer.Data\\Eflyer.Data.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E6D29A-9E7E-445A-87B4-49F939B9BC9E}|Eflyer.Data\\Eflyer.Data.csproj|solutionrelative:eflyer.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\wwwroot\\admin\\img\\undraw_rocket.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\wwwroot\\admin\\img\\undraw_rocket.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\wwwroot\\admin\\img\\undraw_profile.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\wwwroot\\admin\\img\\undraw_profile.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer.business\\eflyer.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B0C80DE-A344-4561-B1FA-D90E204E8A1E}|Eflyer.Business\\Eflyer.Business.csproj|solutionrelative:eflyer.business\\eflyer.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|c:\\users\\user\\desktop\\eflyer\\eflyer\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{758BE63B-1150-4C56-8E4D-B357892E1525}|Eflyer\\Eflyer.csproj|solutionrelative:eflyer\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:39:15.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElectronicController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Controllers\\ElectronicController.cs",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Controllers\\ElectronicController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Controllers\\ElectronicController.cs",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Controllers\\ElectronicController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:23:28.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8BAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T08:40:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Electronic\\Create.cshtml",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Views\\Electronic\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Electronic\\Create.cshtml",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Views\\Electronic\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:49:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Electronic\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Views\\Electronic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Electronic\\Index.cshtml",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Views\\Electronic\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T09:23:48.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T08:45:29.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T08:42:34.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityFileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Exceptions\\EntityFileNotFoundException.cs",
+              "RelativeDocumentMoniker": "Eflyer.Business\\Exceptions\\EntityFileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Exceptions\\EntityFileNotFoundException.cs",
+              "RelativeToolTip": "Eflyer.Business\\Exceptions\\EntityFileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:12:31.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElectronicService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Services\\Concretes\\ElectronicService.cs",
+              "RelativeDocumentMoniker": "Eflyer.Business\\Services\\Concretes\\ElectronicService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Services\\Concretes\\ElectronicService.cs",
+              "RelativeToolTip": "Eflyer.Business\\Services\\Concretes\\ElectronicService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:12:20.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IElectronicService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Services\\Abstracts\\IElectronicService.cs",
+              "RelativeDocumentMoniker": "Eflyer.Business\\Services\\Abstracts\\IElectronicService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Services\\Abstracts\\IElectronicService.cs",
+              "RelativeToolTip": "Eflyer.Business\\Services\\Abstracts\\IElectronicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:12:14.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "Eflyer.Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "Eflyer.Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:11:58.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IElectronicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\RepositoryAbstracts\\IElectronicRepository.cs",
+              "RelativeDocumentMoniker": "Eflyer.Core\\RepositoryAbstracts\\IElectronicRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\RepositoryAbstracts\\IElectronicRepository.cs",
+              "RelativeToolTip": "Eflyer.Core\\RepositoryAbstracts\\IElectronicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:11:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Eflyer.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Eflyer.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:11:25.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ElectronicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Data\\RepositoryConcretes\\ElectronicRepository.cs",
+              "RelativeDocumentMoniker": "Eflyer.Data\\RepositoryConcretes\\ElectronicRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Data\\RepositoryConcretes\\ElectronicRepository.cs",
+              "RelativeToolTip": "Eflyer.Data\\RepositoryConcretes\\ElectronicRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:23:59.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Eflyer.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Eflyer.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:46:18.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Electronic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\Models\\Electronic.cs",
+              "RelativeDocumentMoniker": "Eflyer.Core\\Models\\Electronic.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\Models\\Electronic.cs",
+              "RelativeToolTip": "Eflyer.Core\\Models\\Electronic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:36:04.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Eflyer.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Eflyer.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:04:59.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Eflyer.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Eflyer.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:24:01.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Eflyer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Eflyer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:12:48.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "undraw_rocket.svg",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\wwwroot\\admin\\img\\undraw_rocket.svg",
+              "RelativeDocumentMoniker": "Eflyer\\wwwroot\\admin\\img\\undraw_rocket.svg",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\wwwroot\\admin\\img\\undraw_rocket.svg",
+              "RelativeToolTip": "Eflyer\\wwwroot\\admin\\img\\undraw_rocket.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABCAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG2SURBVDhPfZPPSxtBFMe/MzuJu7G2xBhDQAqFQvDWUy69pF49evViLvkzcvVfCOJB8L\u002BwiCy09CDkZFEQLYXSH2ui2TarMdkZ34yLXTOrX/jymHnvfXbeDMtAarfbvNlsrriuW9PrLPX7/VPf9/dbrdY42QKUUiYSQIRhuCuljJ9yr9f71e12NzqdTs40JeJJ1GIk/pQdx6mUSqXNer2\u002BnoakAc\u002BKAPA8b7FarW42Go012jLjW4DrUOFvQL54bBkV4IkiyuXyYqVSWaWxHV1vAaJLBTED5Mh5L22GmwED51z7oc8CcOIyOtzp54mJM7PMOF\u002BgZvPNx8q8A5FnqC474ILhx1GM8LdMMrYyAaOI5v4j8e1wAn9rhE87t/h3kQ2xAIrqBj8lrgcK37sx5hY45AQ4P4wh46QoJQsQXSlzkXru1\u002B8c1D4I1BoC3hwz0GlZgOBMwt8e4WhvjOODMU7IXz\u002BOaYyRyU3LAnivGOaXONyXDO6L\u002BxcoFBmKtKdz0xJJfNDb9wJv6hnvRXJyNiB9Avq3lHRySuYLyLTO6Rpde9/y/wQyCIKd4XD4JVk/qyiKTigQCLgDeZLESxe\u002BeEcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-23T15:42:08.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "undraw_profile.svg",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\wwwroot\\admin\\img\\undraw_profile.svg",
+              "RelativeDocumentMoniker": "Eflyer\\wwwroot\\admin\\img\\undraw_profile.svg",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\wwwroot\\admin\\img\\undraw_profile.svg",
+              "RelativeToolTip": "Eflyer\\wwwroot\\admin\\img\\undraw_profile.svg",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG2SURBVDhPfZPPSxtBFMe/MzuJu7G2xBhDQAqFQvDWUy69pF49evViLvkzcvVfCOJB8L\u002BwiCy09CDkZFEQLYXSH2ui2TarMdkZ34yLXTOrX/jymHnvfXbeDMtAarfbvNlsrriuW9PrLPX7/VPf9/dbrdY42QKUUiYSQIRhuCuljJ9yr9f71e12NzqdTs40JeJJ1GIk/pQdx6mUSqXNer2\u002BnoakAc\u002BKAPA8b7FarW42Go012jLjW4DrUOFvQL54bBkV4IkiyuXyYqVSWaWxHV1vAaJLBTED5Mh5L22GmwED51z7oc8CcOIyOtzp54mJM7PMOF\u002BgZvPNx8q8A5FnqC474ILhx1GM8LdMMrYyAaOI5v4j8e1wAn9rhE87t/h3kQ2xAIrqBj8lrgcK37sx5hY45AQ4P4wh46QoJQsQXSlzkXru1\u002B8c1D4I1BoC3hwz0GlZgOBMwt8e4WhvjOODMU7IXz\u002BOaYyRyU3LAnivGOaXONyXDO6L\u002BxcoFBmKtKdz0xJJfNDb9wJv6hnvRXJyNiB9Avq3lHRySuYLyLTO6Rpde9/y/wQyCIKd4XD4JVk/qyiKTigQCLgDeZLESxe\u002BeEcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-23T15:42:01.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Program.cs",
+              "RelativeDocumentMoniker": "Eflyer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Program.cs",
+              "RelativeToolTip": "Eflyer\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:37:48.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Eflyer.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Eflyer.Business.csproj",
+              "RelativeDocumentMoniker": "Eflyer.Business\\Eflyer.Business.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer.Business\\Eflyer.Business.csproj",
+              "RelativeToolTip": "Eflyer.Business\\Eflyer.Business.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T10:37:38.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Eflyer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Eflyer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:37:35.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Eflyer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Eflyer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:15:59.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\appsettings.json",
+              "RelativeDocumentMoniker": "Eflyer\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\appsettings.json",
+              "RelativeToolTip": "Eflyer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T09:18:04.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eflyer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eflyer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T08:41:17.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Eflyer\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Eflyer\\Eflyer\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Eflyer\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T08:37:07.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
